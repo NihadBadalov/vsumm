@@ -1,0 +1,5 @@
+anyio==4.6.2.post1
+asyncio==3.4.3
+colorama==0.4.6
+ollama==0.3.3
+youtube-transcript-api==0.6.2
